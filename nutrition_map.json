@@ -1,0 +1,26 @@
+{
+  "blue":
+    {
+      "morning":"blue smoothie 1",
+      "midday":"blue smoothie 2",
+      "evening":"blue smoothie 3"
+    },
+  "green":
+  {
+    "morning":"green smoothie 1",
+    "midday":"green smoothie 2",
+    "evening":"green smoothie 3"
+  },
+  "red":
+  {
+    "morning":"red smoothie 1",
+    "midday":"red smoothie 2",
+    "evening":"red smoothie 3"
+  },
+  "yellow":
+  {
+    "morning":"yellow smoothie 1",
+    "midday":"yellow smoothie 2",
+    "evening":"yellow smoothie 3"
+  }
+}
